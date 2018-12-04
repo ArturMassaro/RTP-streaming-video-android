@@ -1,0 +1,4 @@
+sudo service WowzaStreamingEngine start
+sudo service WowzaStreamingEngine stop
+
+
